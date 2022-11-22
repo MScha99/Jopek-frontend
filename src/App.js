@@ -30,7 +30,7 @@ function App() {
         setCartItems(newCartItems)
         localStorage.setItem('cartItems', JSON.stringify(newCartItems))
       }
-    } else {
+    } else  if (product.stock >0) {
       //jeżeli nie ma w koszyku to dopisz i dodaj mu quant 1
       const newCartItems = [...cartItems, { ...product, quant: 1 }]
       setCartItems(newCartItems)
