@@ -3,9 +3,9 @@
 corresponding backend: https://github.com/Hakkene/Jopek-backend
 
 This is a front-end eCommerce web app built using **ReactJS** and **bulmacss**. Its highlight features include:
-- Dynamic product filtering
+- dynamic product filtering
 - shopping cart
-- user authentication
+- user account functionality
 - comment section
 - responsive, minimalistic UI
 
