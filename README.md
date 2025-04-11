@@ -2,7 +2,7 @@
 
 corresponding backend: https://github.com/Hakkene/Jopek-backend
 
-This is a front-end eCommerce web app built using **ReactJS** and **bulmacss**. Its highlight features include:
+This is a front-end eCommerce web app built using **ReactJS** and **bulmacss**, deisgned for a board game shop with rental service. Its highlight features include:
 - dynamic product filtering
 - shopping cart
 - user account functionality
